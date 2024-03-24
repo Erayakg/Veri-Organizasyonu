@@ -1,0 +1,19 @@
+One to many ilişkisi örnekleri
+
+Anahtar -> Kilit
+Öğretmen -> Öğrenciler
+İşveren -> Çalışanlar
+Ebeveynler -> Çocuklar
+
+Many to Many ilişkisi örnekleri
+
+Müşteriler -> Satıcılar
+Doktorlar -> Hasta
+Hükümet -> Vatandaşlar
+
+Many to One ilişkisi örnekleri 
+
+Güneş -> Gezegenler (Güneş'in birçok gezegeni etkilemesi)
+Ebeveynler -> Çocuk (Birkaç çocuğun aynı ebeveynlere sahip olması)
+Okul -> Öğrenciler (Bir okulun birçok öğrencisi olması)
+
